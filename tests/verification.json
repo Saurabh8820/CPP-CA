@@ -1,0 +1,112 @@
+{
+  "compiler": "g++.exe (MinGW.org GCC-6.3.0-1) 6.3.0",
+  "flags": "-std=c++11 -Wall -Wextra -pedantic",
+  "diagnostics": "",
+  "source_sha256": "c910eefaabfd0d5166de4656d63f0b7fecc56656bdca07bbe323fe552393b51a",
+  "cases": [
+    {
+      "id": "T01",
+      "type": "Boundary",
+      "scenario": "View empty log",
+      "result": "PASS"
+    },
+    {
+      "id": "T02",
+      "type": "Invalid",
+      "scenario": "Search empty log",
+      "result": "PASS"
+    },
+    {
+      "id": "T03",
+      "type": "Normal",
+      "scenario": "Add a valid session",
+      "result": "PASS"
+    },
+    {
+      "id": "T04",
+      "type": "Invalid",
+      "scenario": "Duplicate session ID",
+      "result": "PASS"
+    },
+    {
+      "id": "T05",
+      "type": "Boundary",
+      "scenario": "ID 0 and 10000",
+      "result": "PASS"
+    },
+    {
+      "id": "T06",
+      "type": "Invalid",
+      "scenario": "ID abc, 12x and 1.5",
+      "result": "PASS"
+    },
+    {
+      "id": "T07",
+      "type": "Invalid",
+      "scenario": "Empty / spaces-only text",
+      "result": "PASS"
+    },
+    {
+      "id": "T08",
+      "type": "Boundary",
+      "scenario": "Duration 29 and 1801",
+      "result": "PASS"
+    },
+    {
+      "id": "T09",
+      "type": "Boundary",
+      "scenario": "Words 0 and 5001",
+      "result": "PASS"
+    },
+    {
+      "id": "T10",
+      "type": "Boundary",
+      "scenario": "Fillers -1 and words + 1",
+      "result": "PASS"
+    },
+    {
+      "id": "T11",
+      "type": "Normal",
+      "scenario": "View two populated records",
+      "result": "PASS"
+    },
+    {
+      "id": "T12",
+      "type": "Normal",
+      "scenario": "Search existing ID 102",
+      "result": "PASS"
+    },
+    {
+      "id": "T13",
+      "type": "Invalid",
+      "scenario": "Search missing ID 999",
+      "result": "PASS"
+    },
+    {
+      "id": "T14",
+      "type": "Invalid",
+      "scenario": "Menu 9, then Exit",
+      "result": "PASS"
+    },
+    {
+      "id": "T15",
+      "type": "Boundary",
+      "scenario": "50 records and attempted 51st",
+      "result": "PASS"
+    },
+    {
+      "id": "T16",
+      "type": "Boundary",
+      "scenario": "Inclusive min/max values",
+      "result": "PASS"
+    },
+    {
+      "id": "T17",
+      "type": "Boundary",
+      "scenario": "Pace and filler thresholds",
+      "result": "PASS"
+    }
+  ],
+  "additional_eof_checks": "PASS",
+  "date": "06 November 2026"
+}

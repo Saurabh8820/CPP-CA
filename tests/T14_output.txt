@@ -1,0 +1,8 @@
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Invalid: enter an integer from 0 to 3.
+Choice: Goodbye!

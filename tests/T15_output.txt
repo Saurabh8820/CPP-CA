@@ -1,0 +1,580 @@
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Practice log is full.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session 1 | Student | Practice 1
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 2 | Student | Practice 2
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 3 | Student | Practice 3
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 4 | Student | Practice 4
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 5 | Student | Practice 5
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 6 | Student | Practice 6
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 7 | Student | Practice 7
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 8 | Student | Practice 8
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 9 | Student | Practice 9
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 10 | Student | Practice 10
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 11 | Student | Practice 11
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 12 | Student | Practice 12
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 13 | Student | Practice 13
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 14 | Student | Practice 14
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 15 | Student | Practice 15
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 16 | Student | Practice 16
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 17 | Student | Practice 17
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 18 | Student | Practice 18
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 19 | Student | Practice 19
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 20 | Student | Practice 20
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 21 | Student | Practice 21
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 22 | Student | Practice 22
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 23 | Student | Practice 23
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 24 | Student | Practice 24
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 25 | Student | Practice 25
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 26 | Student | Practice 26
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 27 | Student | Practice 27
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 28 | Student | Practice 28
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 29 | Student | Practice 29
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 30 | Student | Practice 30
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 31 | Student | Practice 31
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 32 | Student | Practice 32
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 33 | Student | Practice 33
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 34 | Student | Practice 34
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 35 | Student | Practice 35
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 36 | Student | Practice 36
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 37 | Student | Practice 37
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 38 | Student | Practice 38
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 39 | Student | Practice 39
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 40 | Student | Practice 40
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 41 | Student | Practice 41
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 42 | Student | Practice 42
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 43 | Student | Practice 43
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 44 | Student | Practice 44
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 45 | Student | Practice 45
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 46 | Student | Practice 46
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 47 | Student | Practice 47
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 48 | Student | Practice 48
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 49 | Student | Practice 49
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+Session 50 | Student | Practice 50
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID to search: Session 50 | Student | Practice 50
+Duration: 60s | Words: 120 | Fillers: 4
+Rate: 120.0 wpm | Filler rate: 3.3%
+Pace: Balanced | Fillers: Controlled
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Goodbye!

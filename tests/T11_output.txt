@@ -1,0 +1,35 @@
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session 101 | Saurabh kumar | Self introduction
+Duration: 120s | Words: 260 | Fillers: 8
+Rate: 130.0 wpm | Filler rate: 3.1%
+Pace: Balanced | Fillers: Controlled
+Session 102 | Saurabh kumar | Importance of reading
+Duration: 90s | Words: 180 | Fillers: 12
+Rate: 120.0 wpm | Filler rate: 6.7%
+Pace: Balanced | Fillers: Reduce fillers
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Goodbye!

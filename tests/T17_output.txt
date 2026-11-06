@@ -1,0 +1,57 @@
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session ID (1-9999): Speaker name: Speech topic: Duration in seconds (30-1800): Word count (1-5000): Filler count (0-word count): Session added.
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Session 1 | Saurabh kumar | Self introduction
+Duration: 60s | Words: 110 | Fillers: 0
+Rate: 110.0 wpm | Filler rate: 0.0%
+Pace: Balanced | Fillers: Controlled
+Session 2 | Saurabh kumar | Self introduction
+Duration: 60s | Words: 160 | Fillers: 8
+Rate: 160.0 wpm | Filler rate: 5.0%
+Pace: Balanced | Fillers: Controlled
+Session 3 | Saurabh kumar | Self introduction
+Duration: 60s | Words: 100 | Fillers: 6
+Rate: 100.0 wpm | Filler rate: 6.0%
+Pace: Slow | Fillers: Reduce fillers
+Session 4 | Saurabh kumar | Self introduction
+Duration: 60s | Words: 180 | Fillers: 4
+Rate: 180.0 wpm | Filler rate: 2.2%
+Pace: Fast | Fillers: Controlled
+
+=== Public Speaking Practice Evaluator ===
+1. Add Session
+2. View All
+3. Search by ID
+0. Exit
+Choice: Goodbye!
